@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681342688 source:e:\code-block\projects\iti_labs\lab_3\input-print_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

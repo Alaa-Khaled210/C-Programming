@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681344404 source:e:\code-block\projects\iti_labs\lab_3\2nd_largest_element_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

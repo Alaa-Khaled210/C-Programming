@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681418485 source:e:\code-block\projects\iti_labs\lab1_and_lab2\print_ascii_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

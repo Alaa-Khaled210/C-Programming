@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681418011 source:e:\code-block\projects\iti_labs\lab1_and_lab2\concate_hello_world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

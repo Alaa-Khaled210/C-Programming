@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682033381 source:e:\code-block\projects\iti_labs\final_lab\concatenate_defined_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"my_fun.h"
+
+1682033381 e:\code-block\projects\iti_labs\final_lab\concatenate_defined_function\my_fun.h
+
+1682033381 source:e:\code-block\projects\iti_labs\final_lab\concatenate_defined_function\my_fun.c
+

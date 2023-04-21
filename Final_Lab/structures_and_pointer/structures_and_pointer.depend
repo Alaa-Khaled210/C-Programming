@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1682116546 source:e:\code-block\projects\iti_labs\final_lab\structures_and_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_fun.h"
+
+1682116583 e:\code-block\projects\iti_labs\final_lab\structures_and_pointer\my_fun.h
+
+1682116060 source:e:\code-block\projects\iti_labs\final_lab\structures_and_pointer\my_fun.c
+

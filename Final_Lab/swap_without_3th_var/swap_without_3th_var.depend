@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682065433 source:e:\code-block\projects\iti_labs\final_lab\swap_without_3th_var\main.c
+	<stdio.h>
+	<stdlib.h>
+
